@@ -109,6 +109,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "פרוייקט סופי נ�
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "61601"
+		SlnRelativePath = "‏‏נועם - פרוייקט לדוגמא\פרוייקט סופי נועם שחר\"
 	EndProjectSection
 EndProject
 Global
